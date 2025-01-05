@@ -47,7 +47,7 @@ var shaders = {
       frag: './shaders/display.frag'
     , vert: './shaders/triangle.vert'
   })(gl)
-}
+} fcbtuxhc0w
 
 var outputs = {
     actual: createFBO(gl, [512, 512])
